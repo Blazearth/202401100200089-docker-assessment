@@ -2,6 +2,8 @@ FROM python:3.12-alpine
 
 WORKDIR /app
 
+ENV APP_VERSION=1.0.0
+
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup
 
 COPY requirements.txt .
