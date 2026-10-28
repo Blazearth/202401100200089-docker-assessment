@@ -7,7 +7,7 @@
 * **Docker Hub Username:** blazearth
 * **Docker Hub Repository Link:** [https://hub.docker.com/r/blazearth/fest-backend](https://hub.docker.com/r/blazearth/fest-backend)
 * **Backend Image Tag:** `blazearth/fest-backend:1.0.0`
-* **Digest of 1.0.0:** `sha256:cbe5da77aba87305653af6bc6428a7b6410ce9a083a218f29bf63116fc5a873c`
+* **Digest of 1.0.0:** `sha256:cbe5da77aba87305653af6bc6428a7b641052beca2722b9e44aa5d112595e910` (Manifest: `sha256:a74016da24e9acb1c1ff717bb2a5f8b507021495bcead3074e8cd7035808ee8f`)
 
 ---
 
